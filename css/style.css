@@ -66,9 +66,11 @@
 
 
 .cont-contacto{
+    margin-top: 5%;
     display: flex;
     text-align: center;
     font-weight: 600;
+    justify-content: space-between;
 }
 
 .cont-contacto h2{
@@ -80,5 +82,5 @@
     color: #000;
     background: var(--colorMostaza);
     border-radius: 15px;
-    font-size: 10pt;
+    font-size: 9.5pt;
 }
