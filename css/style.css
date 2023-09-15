@@ -55,15 +55,15 @@
 }
 .description-option h2{
     color: var(--colorMostaza);
-    font-size: 13pt;
+    font-size: 14pt;
 }
 .sub-categoria h3{
     color: var(--colorSubtitle);
-    font-size: 10pt;
+    font-size: 11pt;
 }
 .sub-categoria p{
     color: var(--colorParrafo);
-    font-size: 8pt;
+    font-size: 9pt;
 }
 
 .img-description{
