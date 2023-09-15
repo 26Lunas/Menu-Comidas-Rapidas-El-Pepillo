@@ -1,4 +1,10 @@
 
+@font-face {
+    font-family: 'Playlist-Script'; /* El nombre de la fuente */
+    src: url('../fonts/Playlist-Script/Playlist\ Script.otf') format('truetype'); /* La ruta a la fuente y su formato */
+    /* Puedes agregar otros formatos de fuente compatibles, como woff2, woff, eot, svg, según sea necesario */
+}
+
 
 :root{
     --colorMostaza: #FFAC00;
@@ -42,6 +48,10 @@
     margin: 0;
     text-align: center;
     color: #fff;
+}
+.cont-titulo h2{
+    font-family: 'Playlist-Script';
+    margin: 0;
 }
 .description-option h2{
     color: var(--colorMostaza);
