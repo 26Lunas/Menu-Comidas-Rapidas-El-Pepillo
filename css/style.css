@@ -42,6 +42,7 @@
 .option{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .cont-titulo{
@@ -64,6 +65,14 @@
 .sub-categoria p{
     color: var(--colorParrafo);
     font-size: 9pt;
+}
+.sub-categoria h4{
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.option-3 .sub-categoria span{
+    font-size: 10pt;
 }
 
 .img-description{
