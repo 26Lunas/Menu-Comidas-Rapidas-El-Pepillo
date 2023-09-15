@@ -67,4 +67,18 @@
 
 .cont-contacto{
     display: flex;
+    text-align: center;
+    font-weight: 600;
+}
+
+.cont-contacto h2{
+    color: #fff;
+    font-size: 15pt;
+}
+
+.cont-contacto p{
+    color: #000;
+    background: var(--colorMostaza);
+    border-radius: 15px;
+    font-size: 10pt;
 }
